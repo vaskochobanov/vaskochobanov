@@ -1,6 +1,7 @@
 ### Hello everybody. I am Vasil Chobanov 👋
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaskochobanov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaskochobanov&theme=<THEME_NAME>" />
+
 I am a newbie in a coding world and I want to gain more experience in that area.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaskochobanov)
