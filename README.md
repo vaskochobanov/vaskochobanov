@@ -4,6 +4,8 @@
 
 I am a newbie in a coding world and I want to gain more experience in that area.
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaskochobanov)
 
 <!--
